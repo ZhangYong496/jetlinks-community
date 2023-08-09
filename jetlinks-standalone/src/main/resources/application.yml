@@ -1,5 +1,5 @@
 server:
-  port: 8848
+  port: 8844
 
 spring:
   profiles:
@@ -29,7 +29,7 @@ spring:
     url: r2dbc:postgresql://127.0.0.1:5432/jetlinks
     #    url: r2dbc:mysql://127.0.0.1:3306/jetlinks?ssl=false&serverZoneId=Asia/Shanghai # 修改了配置easyorm相关配置也要修改
     username: postgres
-    password: jetlinks
+    password: postgres
     pool:
       max-size: 32
       max-idle-time: 2m # 值不能大于mysql server的wait_timeout配置
@@ -57,7 +57,7 @@ tdengine:
     password: taosdata
 elasticsearch:
   embedded:
-    enabled: false # 为true时使用内嵌的elasticsearch,不建议在生产环境中使用
+    enabled: true # 为true时使用内嵌的elasticsearch,不建议在生产环境中使用
     data-path: ./data/elasticsearch
     port: 9200
     host: 0.0.0.0
