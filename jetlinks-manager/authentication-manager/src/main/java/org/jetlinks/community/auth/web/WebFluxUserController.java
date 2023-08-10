@@ -21,17 +21,19 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import reactor.core.publisher.Mono;
 
+import javax.annotation.Resource;
+
 public class WebFluxUserController extends org.hswebframework.web.system.authorization.defaults.webflux.WebFluxUserController {
 
-    @Autowired
+    @Resource
     private DefaultReactiveUserService reactiveUserService;
 
     @Autowired(required = false)
-    private PasswordValidator passwordValidator = (password) -> {
+    private final PasswordValidator passwordValidator = (password) -> {
     };
 
     @Autowired(required = false)
-    private UsernameValidator usernameValidator = (username) -> {
+    private final UsernameValidator usernameValidator = (username) -> {
         if (StringUtils.isEmpty(username)) {
             throw new ValidationException("error.user_cannot_be_empty");
         }
