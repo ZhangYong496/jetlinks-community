@@ -76,15 +76,15 @@ public class UserDetailService extends GenericReactiveCrudService<UserDetailEnti
                 this.findById(userId).defaultIfEmpty(emptyDetail), // 详情
 //                memberService.findMemberDetail(userId).collectList(), // 租户成员信息
                 authenticationManager       //用户维度信息
-                                            .getByUserId(userId)
-                                            .map(Authentication::getDimensions)
-                                            .defaultIfEmpty(Collections.emptyList())
+                    .getByUserId(userId)
+                    .map(Authentication::getDimensions)
+                    .defaultIfEmpty(Collections.emptyList())
             )
             .map(tp4 -> UserDetail
-                     .of(tp4.getT1())
-                     .with(tp4.getT2())
+                    .of(tp4.getT1())
+                    .with(tp4.getT2())
 //                .with(tp4.getT3())
-                     .withDimension(tp4.getT3())
+                    .withDimension(tp4.getT3())
             );
     }
 
@@ -119,25 +119,25 @@ public class UserDetailService extends GenericReactiveCrudService<UserDetailEnti
             .flatMap(tp2 -> {
                 List<UserEntity> userList = tp2.getT2();
                 return this.createQuery()
-                           .in(UserDetailEntity::getId, userList
-                               .stream()
-                               .map(UserEntity::getId)
-                               .collect(Collectors.toList()))
-                           .fetch()
-                           .collectMap(UserDetailEntity::getId)
-                           .flatMap(userDetailMap -> {
-                               List<UserDetail> userDetailList = userList.stream()
-                                                                         .map(user -> {
-                                                                             UserDetail userDetail = UserDetail.of(user);
-                                                                             UserDetailEntity entity = userDetailMap.get(user.getId());
-                                                                             if (entity != null) {
-                                                                                 userDetail = userDetail.with(entity);
-                                                                             }
-                                                                             return userDetail;
-                                                                         })
-                                                                         .collect(Collectors.toList());
-                               return Mono.just(PagerResult.of(tp2.getT1(), userDetailList, query));
-                           });
+                    .in(UserDetailEntity::getId, userList
+                        .stream()
+                        .map(UserEntity::getId)
+                        .collect(Collectors.toList()))
+                    .fetch()
+                    .collectMap(UserDetailEntity::getId)
+                    .flatMap(userDetailMap -> {
+                        List<UserDetail> userDetailList = userList.stream()
+                            .map(user -> {
+                                UserDetail userDetail = UserDetail.of(user);
+                                UserDetailEntity entity = userDetailMap.get(user.getId());
+                                if (entity != null) {
+                                    userDetail = userDetail.with(entity);
+                                }
+                                return userDetail;
+                            })
+                            .collect(Collectors.toList());
+                        return Mono.just(PagerResult.of(tp2.getT1(), userDetailList, query));
+                    });
             });
     }
 
