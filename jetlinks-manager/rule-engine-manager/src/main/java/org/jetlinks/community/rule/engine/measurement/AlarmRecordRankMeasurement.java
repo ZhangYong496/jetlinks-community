@@ -24,7 +24,7 @@ import java.util.Date;
 import java.util.Objects;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 public class AlarmRecordRankMeasurement extends StaticMeasurement {
 

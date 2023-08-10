@@ -6,7 +6,7 @@ import lombok.Getter;
 /**
  * 通用维度定义
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 @AllArgsConstructor
 @Getter

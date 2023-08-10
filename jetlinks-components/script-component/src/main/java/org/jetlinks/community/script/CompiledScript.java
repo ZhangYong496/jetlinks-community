@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * 已编译的脚本信息.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public interface CompiledScript {

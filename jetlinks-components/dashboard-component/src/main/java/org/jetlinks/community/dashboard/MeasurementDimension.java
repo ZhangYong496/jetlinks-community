@@ -7,7 +7,7 @@ import org.reactivestreams.Publisher;
 /**
  * 指标维度,如: 每小时,服务器1
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 public interface MeasurementDimension {
 

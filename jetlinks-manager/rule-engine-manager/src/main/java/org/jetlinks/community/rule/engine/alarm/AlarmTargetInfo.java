@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 @AllArgsConstructor(staticName = "of")
 @NoArgsConstructor

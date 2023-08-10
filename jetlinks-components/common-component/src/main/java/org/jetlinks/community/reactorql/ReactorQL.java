@@ -5,7 +5,7 @@ import java.lang.annotation.*;
 /**
  * 在接口的方法上注解,使用sql语句来处理参数
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see org.jetlinks.reactor.ql.ReactorQL
  * @see ReactorQLOperation
  * @since 1.6

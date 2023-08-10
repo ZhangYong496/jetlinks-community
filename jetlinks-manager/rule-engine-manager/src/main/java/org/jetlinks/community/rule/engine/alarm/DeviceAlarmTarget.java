@@ -5,7 +5,7 @@ import reactor.core.publisher.Flux;
 import java.util.Map;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 
 public class DeviceAlarmTarget extends AbstractAlarmTarget {

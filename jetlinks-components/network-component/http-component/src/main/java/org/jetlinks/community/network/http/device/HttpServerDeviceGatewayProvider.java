@@ -24,7 +24,7 @@ import java.util.Objects;
 /**
  * HTTP 服务设备网关提供商
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Component

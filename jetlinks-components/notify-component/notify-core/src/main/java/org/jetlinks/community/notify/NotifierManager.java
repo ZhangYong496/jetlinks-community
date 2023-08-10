@@ -8,7 +8,7 @@ import javax.annotation.Nonnull;
 /**
  * 通知管理器,用于获取获取通知器.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since  1.0
  * @see Notifier
  * @see DefaultNotifyType

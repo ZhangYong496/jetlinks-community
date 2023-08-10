@@ -27,7 +27,7 @@ import javax.annotation.Nullable;
 /**
  * MQTT Client 网络组件提供商
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Component

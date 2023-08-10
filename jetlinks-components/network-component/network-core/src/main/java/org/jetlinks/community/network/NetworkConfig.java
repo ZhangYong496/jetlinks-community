@@ -8,7 +8,7 @@ import org.springframework.util.StringUtils;
 /**
  * 网络组件配置
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see ServerNetworkConfig
  * @see ClientNetworkConfig
  * @since 2.0

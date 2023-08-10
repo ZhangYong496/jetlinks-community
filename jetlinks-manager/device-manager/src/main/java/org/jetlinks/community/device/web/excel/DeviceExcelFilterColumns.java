@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 @ConfigurationProperties(prefix = "jetlinks.import.filter.device")
 @Component

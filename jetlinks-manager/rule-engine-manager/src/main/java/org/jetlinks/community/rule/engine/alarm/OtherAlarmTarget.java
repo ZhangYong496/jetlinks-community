@@ -3,7 +3,7 @@ package org.jetlinks.community.rule.engine.alarm;
 import reactor.core.publisher.Flux;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 
 public class OtherAlarmTarget implements AlarmTarget {

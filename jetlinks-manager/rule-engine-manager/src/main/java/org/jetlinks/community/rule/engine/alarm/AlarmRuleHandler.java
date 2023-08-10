@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * 告警规则数据处理器,当场景规则中配置的告警动作被执行时,将调用此处理器的相关方法.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  * @see AlarmTaskExecutorProvider
  */

@@ -16,7 +16,7 @@ import java.lang.annotation.*;
  *      return doSomeThing(msg);
  * }
  * </pre>
- * @author zhouhao
+ * @author Alex Zhang
  * @see org.jetlinks.core.event.EventBus
  * @see org.jetlinks.community.gateway.spring.SpringMessageBroker
  * @since 1.0

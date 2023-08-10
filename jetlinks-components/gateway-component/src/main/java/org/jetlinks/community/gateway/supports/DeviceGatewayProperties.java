@@ -13,7 +13,7 @@ import java.util.Map;
  * 转换设备网关属性数据
  * </p>
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 @Getter
 @Setter

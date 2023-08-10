@@ -11,7 +11,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  * <p>
  * 通过oauth2授权获取用户信息
  * @see <a href="https://open.dingtalk.com/document/orgapp/obtain-identity-credentials">获取登录用户的访问凭证</a>

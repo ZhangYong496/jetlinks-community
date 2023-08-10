@@ -6,7 +6,7 @@ import lombok.Getter;
 import org.jetlinks.community.dashboard.DashboardDefinition;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 @Getter
 @AllArgsConstructor

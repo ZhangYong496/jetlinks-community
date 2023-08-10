@@ -9,7 +9,7 @@ import java.security.cert.X509Certificate;
 /**
  * 证书接口
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 public interface Certificate {
 

@@ -8,7 +8,7 @@ import java.lang.annotation.*;
  * 在配置类上加上此注解,并指定{@link EnableReactorQL#value()},将扫描指定包下注解了{@link ReactorQLOperation}的接口类,
  * 并生成代理对象注入到spring中.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since  1.6
  * @see ReactorQL
  * @see ReactorQLOperation

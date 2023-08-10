@@ -7,7 +7,7 @@ import java.util.function.Supplier;
 /**
  * 解析器构造器，用于根据解析器类型和配置信息构造对应的解析器
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface PayloadParserBuilder {

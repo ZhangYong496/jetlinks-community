@@ -65,7 +65,7 @@ import java.util.stream.Collectors;
 /**
  * 响应式ElasticSearchService
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see ReactiveElasticsearchClient
  * @since 1.0
  **/

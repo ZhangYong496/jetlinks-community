@@ -12,7 +12,7 @@ import java.util.function.BiConsumer;
 /**
  * 设备网关,用于统一管理设备连接,状态以及消息收发
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @version 1.0
  * @since 1.0
  */

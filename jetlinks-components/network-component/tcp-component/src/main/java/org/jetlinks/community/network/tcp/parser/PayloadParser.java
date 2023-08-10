@@ -9,7 +9,7 @@ import reactor.core.publisher.Flux;
 /**
  * 用于处理TCP粘拆包的解析器,通常一个客户端对应一个解析器.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see PipePayloadParser
  * @see FixLengthPayloadParserBuilder
  * @see DelimitedPayloadParserBuilder

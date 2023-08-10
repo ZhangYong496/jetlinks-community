@@ -31,7 +31,7 @@ import java.util.List;
 /**
  * 使用Vertx实现HTTP服务
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Component

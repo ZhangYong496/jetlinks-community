@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 
 /**
  * @author bsetfeng
- * @author wanghzeng
+ * @author Alex Zhang
  * @since 1.0
  **/
 @Component

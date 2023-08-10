@@ -6,7 +6,7 @@ import reactor.core.publisher.Mono;
 /**
  * 度量,指标. 如: 使用率
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface Measurement {

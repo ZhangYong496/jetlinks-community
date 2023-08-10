@@ -4,7 +4,7 @@ package org.jetlinks.community.network;
 /**
  * 网络服务配置,如TCP服务,MQTT服务等
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see 2.0
  */
 public interface ServerNetworkConfig extends NetworkConfig {

@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 企业微信部门信息
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see <a href="https://developer.work.weixin.qq.com/document/path/90208">企业微信-获取部门列表</a>
  * @since 2.0
  */

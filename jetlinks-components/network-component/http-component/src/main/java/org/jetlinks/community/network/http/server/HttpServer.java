@@ -9,7 +9,7 @@ import java.util.Locale;
 /**
  * HTTP 服务网络组件接口
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface HttpServer extends ServerNetwork {

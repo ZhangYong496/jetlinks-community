@@ -20,7 +20,7 @@ import java.time.format.DateTimeFormatter;
  * 抽象数据导入服务,导入数据并返回实时数据结果,导入结束后返回导入结果文件.
  *
  * @param <T> 数据类型
- * @author zhouhao
+ * @author Alex Zhang
  * @see FileManager
  * @since 2.1
  */

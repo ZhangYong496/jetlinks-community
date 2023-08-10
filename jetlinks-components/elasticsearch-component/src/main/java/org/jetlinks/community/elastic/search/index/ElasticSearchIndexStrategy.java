@@ -5,7 +5,7 @@ import reactor.core.publisher.Mono;
 /**
  * es 索引策略
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @version 1.0
  */
 public interface ElasticSearchIndexStrategy {

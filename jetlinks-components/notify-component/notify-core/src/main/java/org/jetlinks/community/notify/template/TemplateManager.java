@@ -8,7 +8,7 @@ import javax.annotation.Nonnull;
 /**
  * 模版管理器,用于统一管理通知模版. 模版的转换由不同的通知服务商{@link TemplateProvider}去实现.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see Template
  * @see TemplateProvider
  * @since 1.0

@@ -16,7 +16,7 @@ import java.util.Map;
  * <p>
  * 由{@link org.jetlinks.community.notify.manager.service.NotificationService}写入到数据库.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @Component

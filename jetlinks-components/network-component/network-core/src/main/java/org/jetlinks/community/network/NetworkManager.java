@@ -9,7 +9,7 @@ import java.util.Optional;
 /**
  * 网络组件管理器，用于统一管理网络组件
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see NetworkProvider
  * @since 1.0
  */

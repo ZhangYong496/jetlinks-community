@@ -16,7 +16,7 @@ import javax.validation.constraints.NotNull;
 /**
  * HTTP交换接口，支持获取请求和发送响应
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface HttpExchange {

@@ -22,7 +22,7 @@ import java.util.function.Function;
  * <p>
  * 支持不同物类型自定义表名逻辑{@link ThingsDataCustomizer#custom(ThingsDataContext)} {@link ThingsDataContext#customMetricBuilder(String, MetricBuilder)}
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public class DefaultThingsDataRepository implements ThingsDataRepository, ThingsDataContext, SaveOperations {

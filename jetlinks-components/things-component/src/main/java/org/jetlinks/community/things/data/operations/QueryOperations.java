@@ -14,7 +14,7 @@ import javax.annotation.Nonnull;
 /**
  * 查询操作,用于查询物相关数据
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public interface QueryOperations extends Wrapper {

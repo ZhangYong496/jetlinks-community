@@ -8,7 +8,7 @@ import java.util.Map;
  * 提供支持暴露方法的脚本
  *
  * @param <T> 暴露方法的实例类型
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public interface ExposedScript<T> {

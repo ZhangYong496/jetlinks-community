@@ -13,7 +13,7 @@ import java.util.Map;
 /**
  * 仪表盘指标数据请求
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Getter

@@ -5,7 +5,7 @@ import reactor.core.publisher.Mono;
 /**
  * 时序数据服务管理器,统一管理时序数据操作接口
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface TimeSeriesManager {

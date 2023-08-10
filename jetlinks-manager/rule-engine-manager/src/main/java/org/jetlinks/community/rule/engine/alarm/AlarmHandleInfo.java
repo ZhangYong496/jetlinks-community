@@ -9,7 +9,7 @@ import org.jetlinks.community.rule.engine.enums.AlarmRecordState;
 import javax.validation.constraints.NotBlank;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 @Getter
 @Setter

@@ -29,7 +29,7 @@ import javax.annotation.Nonnull;
 import java.time.Duration;
 
 /**
- * @author zhouhao
+ * @author Alex Zhang
  * @see <a href="https://open.dingtalk.com/document/orgapp-server/asynchronous-sending-of-enterprise-session-messages">发送工作通知</a>
  * @since 1.0
  */

@@ -7,7 +7,7 @@ import javax.annotation.Nonnull;
 /**
  * 指标注册配置信息
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.11
  */
 public interface MeterRegistrySettings {

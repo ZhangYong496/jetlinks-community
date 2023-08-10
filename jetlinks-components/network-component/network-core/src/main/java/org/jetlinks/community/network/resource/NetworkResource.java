@@ -13,7 +13,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 网络资源信息,网卡,可用端口
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @Getter

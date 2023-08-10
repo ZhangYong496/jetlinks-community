@@ -6,7 +6,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
 
 /**
- * @author zhouhao
+ * @author Alex Zhang
  * @see <a href="https://developer.work.weixin.qq.com/document/path/90208">企业内部开发>服务端API>通讯录管理>部门管理>获取部门列表</a>
  * @since 2.0
  */

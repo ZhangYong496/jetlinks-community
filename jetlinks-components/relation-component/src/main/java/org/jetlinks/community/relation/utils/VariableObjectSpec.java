@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 变量关系描述,对象ID可通过变量来获取
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @Getter

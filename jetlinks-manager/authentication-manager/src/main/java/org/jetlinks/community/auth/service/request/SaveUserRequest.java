@@ -15,7 +15,7 @@ import java.util.Set;
 /**
  * 创建用户请求，用于新建用户操作
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @Getter

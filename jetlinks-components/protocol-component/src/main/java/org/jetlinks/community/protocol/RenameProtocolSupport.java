@@ -25,7 +25,7 @@ import java.util.Map;
 /**
  * 重命名协议，将协议包里的协议使用进行重命名
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.2
  */
 @AllArgsConstructor

@@ -6,7 +6,7 @@ import reactor.core.publisher.Mono;
 /**
  * 网络组件配置管理器
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 public interface NetworkConfigManager {
     /**

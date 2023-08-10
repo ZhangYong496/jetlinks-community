@@ -29,7 +29,7 @@ import java.util.Map;
 /**
  * 设备数据服务
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.5
  */
 public interface DeviceDataService {

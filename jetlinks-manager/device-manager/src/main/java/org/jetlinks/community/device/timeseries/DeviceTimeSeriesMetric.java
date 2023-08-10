@@ -7,7 +7,7 @@ import org.jetlinks.core.metadata.EventMetadata;
 /**
  * 设备时序数据度量标识
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see org.jetlinks.community.timeseries.TimeSeriesService
  * @see TimeSeriesMetric
  * @see DeviceTimeSeriesMetadata

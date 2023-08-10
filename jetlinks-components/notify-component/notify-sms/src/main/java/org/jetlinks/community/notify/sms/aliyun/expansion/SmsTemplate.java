@@ -7,7 +7,7 @@ import lombok.Setter;
 import org.hswebframework.web.bean.FastBeanCopier;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 @Getter
 @Setter

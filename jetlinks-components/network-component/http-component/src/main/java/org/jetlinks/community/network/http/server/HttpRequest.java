@@ -18,7 +18,7 @@ import java.util.Optional;
 /**
  * HTTP请求接口,用于定义HTTP请求
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface HttpRequest {

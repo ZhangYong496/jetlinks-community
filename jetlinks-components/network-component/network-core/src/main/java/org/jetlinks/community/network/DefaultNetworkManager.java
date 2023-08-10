@@ -26,7 +26,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 默认网络管理器
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 @Component
 @Slf4j

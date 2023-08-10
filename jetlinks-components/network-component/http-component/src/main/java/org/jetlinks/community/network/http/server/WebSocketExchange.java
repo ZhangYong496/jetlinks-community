@@ -7,7 +7,7 @@ import java.time.Duration;
 /**
  * WebSocket客户端
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface WebSocketExchange extends WebSocketSession {

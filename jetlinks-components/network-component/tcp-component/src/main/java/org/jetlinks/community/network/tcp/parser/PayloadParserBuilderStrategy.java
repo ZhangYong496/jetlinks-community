@@ -10,7 +10,7 @@ import java.util.function.Supplier;
 /**
  * 解析器构造器策略，用于实现不同类型的解析器构造逻辑
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  * @see FixLengthPayloadParserBuilder
  * @see DelimitedPayloadParserBuilder

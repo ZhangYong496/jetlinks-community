@@ -33,7 +33,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * <p>
  * 当获取的本地缓存不存在,并且集群的其他节点也没有获取过,可能将获取到旧数据.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public class AutoUpdateThingsDataManager extends LocalFileThingsDataManager {

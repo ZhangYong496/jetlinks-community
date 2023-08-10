@@ -60,7 +60,7 @@ import java.util.function.Supplier;
  * }</pre>
  *
  * @param <T> 数据类型,需要实现Serializable接口
- * @author zhouhao
+ * @author Alex Zhang
  * @since pro 2.0
  */
 public class PersistenceBuffer<T extends Serializable> implements Disposable {

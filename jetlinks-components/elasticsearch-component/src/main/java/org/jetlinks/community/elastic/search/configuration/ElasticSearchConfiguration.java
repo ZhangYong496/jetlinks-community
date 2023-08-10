@@ -34,7 +34,7 @@ import java.util.List;
 
 /**
  * @author bsetfeng
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  **/
 @Configuration(proxyBeanMethods = false)

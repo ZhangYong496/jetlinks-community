@@ -20,7 +20,7 @@ import java.util.Objects;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 @RestController
 public class ConfigVerificationService {

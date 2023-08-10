@@ -14,7 +14,7 @@ import java.util.function.Function;
 /**
  * 时序数据处理服务
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface TimeSeriesService {

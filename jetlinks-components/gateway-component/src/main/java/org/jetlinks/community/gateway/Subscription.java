@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 /**
  * 订阅信息.支持通配符**(匹配多层目录)和*(匹配单层目录).
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Getter

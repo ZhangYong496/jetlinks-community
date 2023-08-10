@@ -49,7 +49,7 @@ import static org.jetlinks.core.trace.DeviceTracer.SpanName;
  *     6. 当收到消息时,调用对应设备使用的协议{@link ProtocolSupport#getMessageCodec(Transport)}进行解码{@link DeviceMessageCodec#decode(MessageDecodeContext)}
  * </pre>
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see MqttServer
  * @see ProtocolSupport
  * @since 1.0

@@ -17,7 +17,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author zhouhao
+ * @author Alex Zhang
  * @see <a href="https://open.dingtalk.com/document/orgapp-server/queries-the-simple-information-of-a-department-user">获取部门用户基础信息</a>
  * @since 2.0
  */

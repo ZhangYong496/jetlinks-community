@@ -7,7 +7,7 @@ import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 public interface AlarmHistoryService {
 

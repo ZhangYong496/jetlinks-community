@@ -10,7 +10,7 @@ import reactor.core.publisher.Flux;
  * 设备配置定义提供者,通常用于第三方平台接入时,告诉系统对应的产品或者设备所需要的配置，如：第三方平台需要的密钥等信息
  * 系统在导入设备或者编辑设备时，会根据配置定义进行不同的操作，如选择前端界面，生成导出模版等
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see org.jetlinks.community.device.service.DeviceConfigMetadataManager
  * @since 1.7.0
  */

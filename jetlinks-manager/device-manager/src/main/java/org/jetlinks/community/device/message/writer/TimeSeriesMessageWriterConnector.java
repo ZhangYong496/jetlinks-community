@@ -10,7 +10,7 @@ import reactor.core.publisher.Mono;
 /**
  * 用于将设备消息写入到时序数据库
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Slf4j

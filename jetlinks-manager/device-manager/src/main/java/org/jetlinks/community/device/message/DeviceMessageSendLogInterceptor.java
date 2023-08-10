@@ -29,7 +29,7 @@ import java.util.stream.Collectors;
 /**
  * 发送设备指令的时候,将消息推送到网关中.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.1
  */
 @Component

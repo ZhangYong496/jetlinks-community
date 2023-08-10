@@ -20,7 +20,7 @@ import java.util.Optional;
 /**
  * Http 设备会话
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 class HttpDeviceSession implements DeviceSession {

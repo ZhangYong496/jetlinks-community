@@ -12,7 +12,7 @@ import java.time.Duration;
 import java.util.Objects;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 @AllArgsConstructor
 public class DefaultUserBindService implements UserBindService {

@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 阿里云短信扩展信息
  *
- * @author bestfeng
+ * @author Alex Zhang
  */
 @Getter
 @Setter

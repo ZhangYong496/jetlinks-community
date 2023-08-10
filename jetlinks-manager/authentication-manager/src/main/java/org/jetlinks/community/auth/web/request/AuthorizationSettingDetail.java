@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 /**
  * 权限设置详情信息
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Getter

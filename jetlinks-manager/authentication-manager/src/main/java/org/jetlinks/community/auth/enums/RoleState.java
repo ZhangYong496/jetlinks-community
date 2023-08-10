@@ -6,7 +6,7 @@ import org.hswebframework.web.dict.EnumDict;
 
 /**
  * 角色状态
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @Getter

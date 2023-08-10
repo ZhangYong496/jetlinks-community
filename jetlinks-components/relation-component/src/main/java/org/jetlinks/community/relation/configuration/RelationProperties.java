@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 关系配置
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @ConfigurationProperties(prefix = "relation")

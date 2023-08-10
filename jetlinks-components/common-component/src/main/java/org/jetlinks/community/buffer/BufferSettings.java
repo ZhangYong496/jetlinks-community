@@ -14,7 +14,7 @@ import java.util.concurrent.TimeoutException;
 import java.util.function.Predicate;
 
 /**
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @Getter

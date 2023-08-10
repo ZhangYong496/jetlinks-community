@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 /**
  * 通知模版,不同的服务商{@link NotifierProvider},{@link TemplateProvider}需要实现不同的模版
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @version 1.0
  * @since 1.0
  */

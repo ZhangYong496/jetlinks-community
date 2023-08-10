@@ -5,7 +5,7 @@ import org.jetlinks.core.config.ConfigKey;
 /**
  * 数据验证配置常量类
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see ConfigKey
  */
 public interface ConfigMetadataConstants {

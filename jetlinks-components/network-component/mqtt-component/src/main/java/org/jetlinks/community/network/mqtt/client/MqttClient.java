@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * MQTT Client
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface MqttClient extends Network {

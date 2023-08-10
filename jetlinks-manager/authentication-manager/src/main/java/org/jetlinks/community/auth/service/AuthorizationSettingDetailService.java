@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
 /**
  * 授权设置管理,用于保存授权配置以及获取授权设置详情.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see DefaultAuthorizationSettingService
  * @see DimensionProvider
  * @since 1.0

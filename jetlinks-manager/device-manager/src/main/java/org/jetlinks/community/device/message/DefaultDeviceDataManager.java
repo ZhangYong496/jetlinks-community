@@ -34,7 +34,7 @@ import java.util.function.Function;
 /**
  * 设备最近数据管理器，用于获取设备最近的属性数据等.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.9
  */
 @Component

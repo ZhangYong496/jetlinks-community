@@ -21,7 +21,7 @@ import javax.annotation.Nonnull;
  * 阿里云短信通知服务
  * </a>
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Component

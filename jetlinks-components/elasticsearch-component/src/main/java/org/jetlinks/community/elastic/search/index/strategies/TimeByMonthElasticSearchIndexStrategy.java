@@ -8,7 +8,7 @@ import java.time.LocalDate;
 /**
  * 按月对来划分索引策略
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public class TimeByMonthElasticSearchIndexStrategy extends TemplateElasticSearchIndexStrategy {

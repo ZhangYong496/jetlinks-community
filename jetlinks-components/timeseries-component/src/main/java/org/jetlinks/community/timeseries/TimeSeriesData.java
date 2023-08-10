@@ -10,7 +10,7 @@ import java.util.Optional;
 /**
  * 时序数据封装类
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 public interface TimeSeriesData extends ValueObject {
 

@@ -8,7 +8,7 @@ import reactor.core.publisher.Mono;
 /**
  * HTTP响应信息
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface HttpResponse {

@@ -30,7 +30,7 @@ import java.util.Set;
  * <p>
  * 注意：所有的配置都是保存在一起的，在定义字段时，要注意配置名冲突。
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see DeviceConfigMetadataSupplier
  * @see DeviceInstanceEntity#getConfiguration()
  * @see DeviceProductEntity#getConfiguration()

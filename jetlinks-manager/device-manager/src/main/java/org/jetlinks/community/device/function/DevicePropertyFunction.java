@@ -14,7 +14,7 @@ import reactor.core.publisher.Mono;
  * select * from ... where device.property.recent(deviceId,'temperature',timestamp)  = 'xxx'
  * }</pre>
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @Component

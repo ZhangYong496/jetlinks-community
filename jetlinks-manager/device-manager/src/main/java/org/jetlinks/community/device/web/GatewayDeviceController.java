@@ -31,7 +31,7 @@ import java.util.stream.Collectors;
 /**
  * 网关设备接口
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @RestController

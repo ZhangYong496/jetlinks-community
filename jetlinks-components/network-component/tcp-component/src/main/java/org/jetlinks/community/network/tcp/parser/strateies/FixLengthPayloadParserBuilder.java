@@ -9,7 +9,7 @@ import java.util.function.Supplier;
 /**
  * 固定长度解析器构造器,每次读取固定长度的数据包
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public class FixLengthPayloadParserBuilder extends VertxPayloadParserBuilder {

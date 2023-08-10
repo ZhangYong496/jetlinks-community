@@ -3,7 +3,7 @@ package org.jetlinks.community.notify;
 /**
  * 服务商标识,通常使用枚举实现此接口
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface Provider {

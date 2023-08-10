@@ -32,7 +32,7 @@ import java.util.function.LongSupplier;
 /**
  * 时间转换工具
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 public class DateMathParser {
 

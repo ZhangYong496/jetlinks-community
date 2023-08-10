@@ -24,7 +24,7 @@ import javax.annotation.PreDestroy;
  * 处理设备产品发布事件
  *
  * @author bsetfeng
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  **/
 @Component

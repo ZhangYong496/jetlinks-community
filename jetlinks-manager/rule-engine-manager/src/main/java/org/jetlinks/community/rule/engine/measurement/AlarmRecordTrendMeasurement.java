@@ -16,7 +16,7 @@ import java.time.ZoneId;
 import java.util.Date;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 public class AlarmRecordTrendMeasurement extends StaticMeasurement {
 

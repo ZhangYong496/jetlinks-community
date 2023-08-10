@@ -7,7 +7,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
 
 /**
- * @author zhouhao
+ * @author Alex Zhang
  * @see <a href="https://developer.work.weixin.qq.com/document/path/90236">企业内部开发>服务端API>消息推送>发送应用消息</a>
  * @since 2.0
  */

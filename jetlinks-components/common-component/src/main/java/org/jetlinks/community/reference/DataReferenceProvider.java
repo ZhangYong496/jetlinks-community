@@ -6,7 +6,7 @@ import reactor.core.publisher.Flux;
 /**
  * 数据引用提供商,用于提供获取对应类型的引用信息
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public interface DataReferenceProvider extends Strategy {

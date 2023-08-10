@@ -13,7 +13,7 @@ import java.time.Duration;
 /**
  * TCP 客户端
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @version 1.0
  */
 public interface TcpClient extends Network, ClientConnection {

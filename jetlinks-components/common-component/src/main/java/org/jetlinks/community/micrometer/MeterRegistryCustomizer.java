@@ -3,7 +3,7 @@ package org.jetlinks.community.micrometer;
 /**
  * 监控指标自定义注册接口,用于对指标进行自定义,如添加指标标签等操作
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.11
  */
 public interface MeterRegistryCustomizer {

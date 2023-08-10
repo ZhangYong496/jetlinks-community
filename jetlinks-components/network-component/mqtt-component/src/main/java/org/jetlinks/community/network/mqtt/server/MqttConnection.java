@@ -25,7 +25,7 @@ import java.util.function.Consumer;
  *
  * </pre>
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @version 1.0
  * @since 1.0
  */

@@ -9,7 +9,7 @@ import reactor.core.publisher.Mono;
  * <p>
  * 可通过此接口来获取可用的网络资源信息.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see NetworkResourceUser
  * @since 2.0
  */

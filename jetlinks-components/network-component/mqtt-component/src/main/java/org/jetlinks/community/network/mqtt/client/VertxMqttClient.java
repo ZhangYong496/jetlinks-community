@@ -30,7 +30,7 @@ import java.util.stream.Stream;
 /**
  * 使用Vertx，MQTT Client。
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Slf4j

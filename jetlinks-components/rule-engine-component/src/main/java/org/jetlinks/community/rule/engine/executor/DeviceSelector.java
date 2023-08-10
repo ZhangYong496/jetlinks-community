@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * 设备选择器,根据上下文来选择设备
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.5
  */
 public interface DeviceSelector {

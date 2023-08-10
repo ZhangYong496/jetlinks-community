@@ -3,7 +3,7 @@ package org.jetlinks.community.rule.engine.service;
 /**
  * 告警目标类型
  *
- * @author bestfeng
+ * @author Alex Zhang
  */
 public interface AlarmTargetType {
 

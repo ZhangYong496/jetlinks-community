@@ -6,7 +6,7 @@ import java.net.InetSocketAddress;
 /**
  * 网络服务
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.2
  */
 public interface ServerNetwork extends Network {

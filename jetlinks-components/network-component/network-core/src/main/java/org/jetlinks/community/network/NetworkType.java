@@ -6,7 +6,7 @@ import java.util.Optional;
 /**
  * 网络组件类型，通常使用枚举实现
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see DefaultNetworkType
  * @since 1.0
  */

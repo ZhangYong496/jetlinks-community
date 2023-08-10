@@ -22,7 +22,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 @AllArgsConstructor
 public class ElasticSearchAlarmHistoryService implements AlarmHistoryService {

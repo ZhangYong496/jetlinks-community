@@ -5,7 +5,7 @@ import lombok.Setter;
 import org.jetlinks.community.rule.engine.alarm.AlarmTarget;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 @Getter
 @Setter

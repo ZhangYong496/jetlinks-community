@@ -8,7 +8,7 @@ import reactor.core.publisher.Mono;
 /**
  * 物数据仓库,用于保存和查询物模型相关数据: 属性,事件,以及日志
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public interface ThingsDataRepository {

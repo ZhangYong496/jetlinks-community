@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * 根据设备产品信息查询设备数据
  *
- * @author bestfeng
+ * @author Alex Zhang
  * @since 2.0
  */
 @Component

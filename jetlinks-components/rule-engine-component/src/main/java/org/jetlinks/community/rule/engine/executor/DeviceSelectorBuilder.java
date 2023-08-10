@@ -5,7 +5,7 @@ import org.jetlinks.community.rule.engine.executor.device.DeviceSelectorSpec;
 /**
  * 设备选择器构造器,根据表达式来构造一个选择器.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see DeviceSelector
  * @since 1.5
  */

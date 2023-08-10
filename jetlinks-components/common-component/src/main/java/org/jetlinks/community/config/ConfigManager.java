@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * 配置管理器,统一管理系统相关配置信息
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public interface ConfigManager {

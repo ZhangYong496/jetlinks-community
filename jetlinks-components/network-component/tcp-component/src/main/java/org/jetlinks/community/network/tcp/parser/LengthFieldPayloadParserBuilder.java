@@ -11,7 +11,7 @@ import java.util.function.Supplier;
 /**
  * 长度字段粘拆包解析规则, 使用指定的字节数据来表示接下来的包长度.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public class LengthFieldPayloadParserBuilder implements PayloadParserBuilderStrategy {

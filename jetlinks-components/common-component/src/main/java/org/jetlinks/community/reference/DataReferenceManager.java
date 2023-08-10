@@ -12,7 +12,7 @@ import reactor.core.publisher.Mono;
  * 使用场景: 在对一些数据进行删除操作时，可以通过判断引用关系来阻止删除.
  * 比如: 删除网络组件时,如果网络组件已经被其他地方使用,则不能删除.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see DataReferenceProvider
  * @since 2.0
  */

@@ -80,7 +80,7 @@ import static org.jetlinks.community.timeseries.query.Aggregation.DISTINCT_COUNT
  *
  * }</pre>
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @Component

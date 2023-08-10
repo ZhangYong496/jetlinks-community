@@ -29,7 +29,7 @@ import java.util.function.Function;
 /**
  * 将设备消息连接到消息网关
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Slf4j

@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
 import java.util.Map;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 @Component
 public class AlarmRecordMeasurementProvider extends StaticMeasurementProvider {

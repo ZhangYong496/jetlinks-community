@@ -3,7 +3,7 @@ package org.jetlinks.community.network;
 /**
  * 网络组件，所有网络相关实例根接口
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @version 1.0
  * @since 1.0
  */

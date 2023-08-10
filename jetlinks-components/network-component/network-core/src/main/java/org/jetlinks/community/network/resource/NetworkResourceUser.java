@@ -6,7 +6,7 @@ import reactor.core.publisher.Flux;
  * 网络资源使用者,通过实现此接口来定义网络资源使用者.
  * 在获取网络资源使用情况时,会调用{@link NetworkResourceUser#getUsedResources()}来进行获取.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public interface NetworkResourceUser {

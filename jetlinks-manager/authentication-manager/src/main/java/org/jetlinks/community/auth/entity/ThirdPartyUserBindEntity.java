@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * 第三方用户绑定实体
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.5
  */
 @Getter

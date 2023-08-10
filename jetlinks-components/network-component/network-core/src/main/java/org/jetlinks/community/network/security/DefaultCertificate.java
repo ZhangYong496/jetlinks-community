@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 /**
  * 默认证书
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 public class DefaultCertificate implements Certificate {
 

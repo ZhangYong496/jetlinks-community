@@ -35,7 +35,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * MQTT Client 设备网关，使用网络组件中的MQTT Client来处理设备数据
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Slf4j

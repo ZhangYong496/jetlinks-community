@@ -13,7 +13,7 @@ import java.util.function.Supplier;
 /**
  * 以分隔符读取数据包
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public class DelimitedPayloadParserBuilder extends VertxPayloadParserBuilder {

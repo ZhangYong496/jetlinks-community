@@ -3,7 +3,7 @@ package org.jetlinks.community.config;
 /**
  * 实现此接口,自定义配置域以及配置定义
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public interface ConfigScopeCustomizer {

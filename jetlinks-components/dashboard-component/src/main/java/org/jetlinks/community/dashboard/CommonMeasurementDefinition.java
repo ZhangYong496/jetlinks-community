@@ -6,7 +6,7 @@ import lombok.Getter;
 /**
  * 通用指标定义
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 @AllArgsConstructor
 @Getter

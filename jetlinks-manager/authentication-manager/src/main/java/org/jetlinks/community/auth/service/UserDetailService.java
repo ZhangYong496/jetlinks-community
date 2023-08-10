@@ -34,7 +34,7 @@ import java.util.stream.Collectors;
  * 通过通用增删改查接口实现用户详情增删改查功能.
  * 通过用户id获取用户基本信息（包含租户成员信息）
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see org.hswebframework.web.crud.service.GenericReactiveCacheSupportCrudService
  * @since 1.3
  */

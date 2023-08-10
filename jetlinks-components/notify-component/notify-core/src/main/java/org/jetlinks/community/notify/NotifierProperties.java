@@ -11,7 +11,7 @@ import java.util.Optional;
 /**
  * 通知配置属性
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see NotifyConfigManager
  * @since 1.0
  */

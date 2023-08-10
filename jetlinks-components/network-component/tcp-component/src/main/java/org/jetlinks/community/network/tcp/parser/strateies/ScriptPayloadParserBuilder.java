@@ -30,7 +30,7 @@ import java.util.function.Supplier;
  *         });
  * }</pre>
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public class ScriptPayloadParserBuilder implements PayloadParserBuilderStrategy {

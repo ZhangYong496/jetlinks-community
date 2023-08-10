@@ -29,7 +29,7 @@ import java.util.Map;
 /**
  * 通知订阅转发器,将通知信息转发到对应的订阅通道中
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @Component

@@ -21,7 +21,7 @@ import java.util.Map;
 /**
  * 设备最新数据服务,用于保存设备最新的相关数据到关系型数据库中，可以使用动态条件进行查询相关数据
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.5.0
  */
 public interface DeviceLatestDataService {

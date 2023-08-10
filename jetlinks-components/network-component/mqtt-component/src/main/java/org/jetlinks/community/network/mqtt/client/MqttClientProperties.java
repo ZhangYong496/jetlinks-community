@@ -10,7 +10,7 @@ import org.jetlinks.community.network.resource.NetworkTransport;
 /**
  * MQTT Client 配置信息
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Getter

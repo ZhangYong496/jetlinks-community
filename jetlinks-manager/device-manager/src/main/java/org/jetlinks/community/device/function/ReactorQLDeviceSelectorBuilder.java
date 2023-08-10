@@ -36,7 +36,7 @@ import java.util.function.Function;
  * in_tenant('租户ID') 在指定租户中的设备
  * </pre>
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @AllArgsConstructor

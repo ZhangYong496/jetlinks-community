@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 文档专用,描述仅有查询功能的动态查询参数
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.5
  * @see org.hswebframework.web.api.crud.entity.QueryParamEntity
  */

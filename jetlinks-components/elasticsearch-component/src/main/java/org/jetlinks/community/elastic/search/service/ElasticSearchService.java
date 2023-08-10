@@ -15,7 +15,7 @@ import java.util.function.Function;
 /**
  * ES数据库业务操作类
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 public interface ElasticSearchService {
 

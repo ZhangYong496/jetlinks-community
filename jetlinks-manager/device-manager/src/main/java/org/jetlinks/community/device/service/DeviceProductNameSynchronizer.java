@@ -24,7 +24,7 @@ import java.util.stream.Collectors;
 /**
  * 自动同步产品名称到设备表
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.6
  */
 @Component

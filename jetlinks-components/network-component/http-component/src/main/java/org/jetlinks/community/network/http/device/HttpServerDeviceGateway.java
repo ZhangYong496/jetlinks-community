@@ -42,7 +42,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * Http 服务设备网关，使用指定的协议包，将网络组件中Http服务的请求处理为设备消息
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @Slf4j

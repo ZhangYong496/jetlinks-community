@@ -19,7 +19,7 @@ import java.util.Map;
 /**
  * 通知订阅者
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.3
  */
 @Table(name = "notify_subscribers",

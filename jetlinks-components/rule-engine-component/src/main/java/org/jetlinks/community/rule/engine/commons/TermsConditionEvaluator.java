@@ -36,7 +36,7 @@ import java.util.stream.Collectors;
  *
  *  }</pre>
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public class TermsConditionEvaluator implements ConditionEvaluatorStrategy {

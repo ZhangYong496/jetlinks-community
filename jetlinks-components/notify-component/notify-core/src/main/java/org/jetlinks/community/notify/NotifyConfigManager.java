@@ -7,7 +7,7 @@ import javax.annotation.Nonnull;
 /**
  * 通知配置管理器,用于统一管理通知配置
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @version 1.0
  * @since 1.0
  */

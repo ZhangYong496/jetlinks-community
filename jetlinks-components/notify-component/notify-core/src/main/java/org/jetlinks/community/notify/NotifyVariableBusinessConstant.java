@@ -1,7 +1,7 @@
 package org.jetlinks.community.notify;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  */
 public interface NotifyVariableBusinessConstant {
 

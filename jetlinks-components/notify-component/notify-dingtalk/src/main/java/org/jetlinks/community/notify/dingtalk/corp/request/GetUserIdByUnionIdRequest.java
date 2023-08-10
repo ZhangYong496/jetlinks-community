@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author bestfeng
+ * @author Alex Zhang
  *
  * 根据unionid获取用户userid
  *

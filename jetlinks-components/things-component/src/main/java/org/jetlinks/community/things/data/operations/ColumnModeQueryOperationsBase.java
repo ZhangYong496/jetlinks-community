@@ -24,7 +24,7 @@ import java.util.function.Function;
  * <p>
  * 列式模式表示: 属性相关消息
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public abstract class ColumnModeQueryOperationsBase extends AbstractQueryOperations implements ColumnModeQueryOperations {

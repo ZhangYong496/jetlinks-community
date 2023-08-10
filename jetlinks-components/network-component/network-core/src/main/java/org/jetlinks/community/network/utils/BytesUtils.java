@@ -3,7 +3,7 @@ package org.jetlinks.community.network.utils;
 /**
  * 字节转换工具
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see org.jetlinks.core.utils.BytesUtils
  */
 @Deprecated

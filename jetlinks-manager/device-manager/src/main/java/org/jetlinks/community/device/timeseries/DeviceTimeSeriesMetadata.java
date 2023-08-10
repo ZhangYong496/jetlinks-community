@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 设备相关时序数据库元数据定义
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface DeviceTimeSeriesMetadata {

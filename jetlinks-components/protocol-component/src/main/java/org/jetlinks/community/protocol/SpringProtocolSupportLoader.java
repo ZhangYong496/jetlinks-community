@@ -15,7 +15,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 使用Spring管理协议加载器,实现{@link ProtocolSupportLoaderProvider}并注入到Spring即可。
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @AllArgsConstructor

@@ -5,7 +5,7 @@ import reactor.core.publisher.Flux;
 /**
  * 告警目标
  *
- * @author bestfeng
+ * @author Alex Zhang
  */
 public interface AlarmTarget {
 

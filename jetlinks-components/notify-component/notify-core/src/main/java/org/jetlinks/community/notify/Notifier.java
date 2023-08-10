@@ -11,7 +11,7 @@ import java.util.function.Consumer;
 /**
  * 通知器,用于发送通知,如: 短信,邮件,语音,微信等
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see NotifierManager
  * @see NotifierProvider
  * @since 1.0

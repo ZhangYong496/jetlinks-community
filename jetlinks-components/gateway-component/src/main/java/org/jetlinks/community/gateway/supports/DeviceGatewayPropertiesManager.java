@@ -6,7 +6,7 @@ import reactor.core.publisher.Mono;
 /**
  * 设备网关属性管理器
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 public interface DeviceGatewayPropertiesManager {
 

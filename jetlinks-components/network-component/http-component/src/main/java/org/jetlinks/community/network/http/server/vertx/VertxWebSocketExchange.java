@@ -38,7 +38,7 @@ import java.util.stream.Collectors;
 
 /**
  * @author wangzheng
- * @author zhouhao
+ * @author Alex Zhang
  * @see WebSocketSession
  * @since 1.0
  */

@@ -25,7 +25,7 @@ import java.util.Map;
  * <p>
  * 比如: 管理员角色的用户可以使用邮件通知,但是普通用户只能使用站内信通知.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 @Getter

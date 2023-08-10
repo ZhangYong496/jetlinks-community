@@ -11,7 +11,7 @@ import javax.annotation.Nullable;
 /**
  * 通知服务提供商
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see TemplateProvider
  * @see NotifierManager
  * @since 1.0

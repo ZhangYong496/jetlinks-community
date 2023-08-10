@@ -5,7 +5,7 @@ import org.jetlinks.community.timeseries.TimeSeriesMetric;
 /**
  * 媒体时序数据度量标识
  *
- * @author bestfeng
+ * @author Alex Zhang
  *
  * @see org.jetlinks.community.timeseries.TimeSeriesService
  * @see TimeSeriesMetric

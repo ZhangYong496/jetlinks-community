@@ -24,7 +24,7 @@ import java.util.function.Supplier;
 /**
  * 设备网关消息处理,会话管理工具类,用于统一封装对设备消息和会话的处理逻辑
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see DeviceRegistry
  * @see DecodedClientMessageHandler
  * @since 1.5

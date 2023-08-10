@@ -7,7 +7,7 @@ import java.lang.annotation.*;
 /**
  * 在接口上添加此注解,开启使用sql来处理reactor数据
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see ReactorQL
  * @see EnableReactorQL
  * @since 1.6

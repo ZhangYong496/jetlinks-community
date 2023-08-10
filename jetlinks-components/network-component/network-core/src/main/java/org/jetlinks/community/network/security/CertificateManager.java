@@ -5,7 +5,7 @@ import reactor.core.publisher.Mono;
 /**
  * 证书管理接口
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 public interface CertificateManager {
 

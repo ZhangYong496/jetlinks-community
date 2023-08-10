@@ -52,7 +52,7 @@ import java.util.function.Function;
  * 使用javax.mail进行邮件发送
  *
  * @author bsetfeng
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  **/
 @Slf4j

@@ -19,7 +19,7 @@ import java.time.Duration;
 /**
  * WebSocket设备会话
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 @AllArgsConstructor

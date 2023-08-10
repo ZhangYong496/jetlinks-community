@@ -12,7 +12,7 @@ import java.util.Date;
 /**
  * 时间反序列化配置
  *
- * @author zhouhao
+ * @author Alex Zhang
  */
 public class SmartDateDeserializer extends JsonDeserializer<Date> {
     @Override

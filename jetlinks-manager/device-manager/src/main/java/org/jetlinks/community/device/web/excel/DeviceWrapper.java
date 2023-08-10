@@ -13,7 +13,7 @@ import java.util.Map;
 /**
  * 设备数据导入包装器
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see 1.0
  */
 public class DeviceWrapper extends RowWrapper<DeviceExcelInfo> {

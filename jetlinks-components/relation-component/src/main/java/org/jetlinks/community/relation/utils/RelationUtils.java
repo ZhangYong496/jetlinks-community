@@ -10,7 +10,7 @@ import java.util.Map;
  * <p>
  * 通过在上下文中设置值为{@link  VariableSource},来表示此变量值为动态变量.
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @see VariableSource
  * @since 2.0
  */

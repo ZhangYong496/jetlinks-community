@@ -11,7 +11,7 @@ import java.util.Optional;
 /**
  * 设备接入网关管理器,统一管理设备接入网关等相关信息
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public interface DeviceGatewayManager {

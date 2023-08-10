@@ -17,7 +17,7 @@ import java.time.Duration;
 /**
  * MQTT Client设备会话
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.0
  */
 public class MqttClientSession implements DeviceSession {

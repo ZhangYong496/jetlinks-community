@@ -10,7 +10,7 @@ import java.util.stream.StreamSupport;
 /**
  * 场景过滤器,实现此接口来对场景数据进行过滤
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 2.0
  */
 public interface SceneFilter {

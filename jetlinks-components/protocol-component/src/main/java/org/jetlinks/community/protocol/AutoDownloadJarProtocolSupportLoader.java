@@ -45,7 +45,7 @@ import static java.nio.file.StandardOpenOption.*;
  *     3. 如果文件不存在则下载协议
  * </pre>
  *
- * @author zhouhao
+ * @author Alex Zhang
  * @since 1.3
  */
 @Slf4j
