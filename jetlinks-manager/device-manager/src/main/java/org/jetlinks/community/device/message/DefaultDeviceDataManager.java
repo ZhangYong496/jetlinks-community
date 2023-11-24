@@ -37,7 +37,8 @@ import java.util.function.Function;
  * @author Alex Zhang
  * @since 1.9
  */
-@Component
+//@Component
+    @Deprecated
 @AllArgsConstructor
 public class DefaultDeviceDataManager implements DeviceDataManager {
 
